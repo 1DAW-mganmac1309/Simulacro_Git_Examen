@@ -1,0 +1,4 @@
+*.log
+.env
+thumbs.db
+.DB_Store
